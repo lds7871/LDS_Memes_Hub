@@ -4,7 +4,12 @@
 
 ## 使用方法
 
-将此图片托管在支持直接URL访问图片的平台上（GITHUB）。服务器通过URL引用图片：`https://github.com/lds7871/LDS_Memes_Hub/blob/master/BIGHead/10.png`
+将此图片托管在支持直接URL访问图片的平台上（GITHUB/GITEE-同名仓库）。服务器通过URL直接引用图片。
+
+## 更新记录
+
+- 2024-11-22: 新增MoCai(魔法少女的魔女裁判)表情分类。
+- 2024-11-21: 创建项目并添加BIGHead(GAL大头)表情分类。
 
 ## 许可证
 
