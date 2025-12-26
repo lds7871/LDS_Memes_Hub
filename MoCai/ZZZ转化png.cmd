@@ -1,4 +1,5 @@
 @echo off
+chcp 65001 >nul
 REM 批量把当前目录下的图片扩展名改为 .png
 for %%i in (*.jpg *.jpeg *.webp *.bmp) do (
     echo 正在改名 %%i ...
